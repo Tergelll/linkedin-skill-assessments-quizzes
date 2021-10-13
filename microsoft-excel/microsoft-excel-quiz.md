@@ -587,8 +587,8 @@
 
 #### Q76. What is the intersection of a worksheet row and column?
 
-- [ ] cell
-- [x] selection
+- [x] cell
+- [ ] selection
 - [ ] element
 - [ ] scalar
 
