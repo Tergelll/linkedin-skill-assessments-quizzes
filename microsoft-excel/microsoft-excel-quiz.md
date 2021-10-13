@@ -670,7 +670,7 @@
   2. Click the Format Painter.
   3. Click the source cell.
 
-- [ ]
+- [x]
 
   1. Select the source cell.
   2. Double-click the Format Painter.
