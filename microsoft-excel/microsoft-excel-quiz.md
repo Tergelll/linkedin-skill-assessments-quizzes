@@ -700,7 +700,7 @@
 
 #### Q85. Before publishing a document, you want to identify issues that may make it difficult for people with disabilities to read. Which feature should you use?
 
-- [ ] Check Accessibility
+- [x] Check Accessibility
 - [ ] Check Compatibility
 - [ ] Protect Document
 - [ ] Inspect Document
@@ -710,7 +710,7 @@
 - [ ] Select the image and, on the `Picture Tools Format` tab, use the `Compress Picture` feature.
 - [ ] Select the image and, on the `Design` tab, use the `Format Background` feature.
 - [ ] On the `Drawing Tools Format` tab, select `Graphics Fill` > `Remove Background`.
-- [ ] Select the image and, on the `Picture Tools Format` tab, click the Remove Background button.
+- [x] Select the image and, on the `Picture Tools Format` tab, click the Remove Background button.
 
 #### Q87. You want to group your slides based on their content to better organize your presentation. How would you accomplish this?
 
