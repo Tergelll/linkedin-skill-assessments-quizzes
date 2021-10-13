@@ -581,8 +581,8 @@
 #### Q75. What is the difference between pressing the delete key and using the clear command in the Home tab's Editing group?
 
 - [ ] deletes removes the entire column or row. Clear removes the content from the column or row
-- [x] deletes removes formulas, values and hyperlinks. clear removes formulas, values, hyperlinks, formats, comments and notes
-- [ ] Delete removes the cell itself, shifting cells either up or to the left. Clear removes content and properties but does not muves cells
+- [ ] deletes removes formulas, values and hyperlinks. clear removes formulas, values, hyperlinks, formats, comments and notes
+- [x] Delete removes the cell itself, shifting cells either up or to the left. Clear removes content and properties but does not muves cells
 - [ ] Delete removes formulas and values. clear removes formulas, values, hyperlinks, formats, comments and notes
 
 #### Q76. What is the intersection of a worksheet row and column?
