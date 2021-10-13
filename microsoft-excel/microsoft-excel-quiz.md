@@ -468,7 +468,7 @@
 `=SUMIFS(Colors[Inventory],Colors[Colors],"Orange")`
 
 - [ ] the Inventory worksheet in the Colors workbook
-- [ ] the Inventory column in the Colors table
+- [x] the Inventory column in the Colors table
 - [ ] the Colors worksheet in the Inventory workbook
 - [ ] the named range Colors[Inventory], which does not use Format as Table Feature
 
