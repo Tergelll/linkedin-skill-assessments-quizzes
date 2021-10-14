@@ -756,7 +756,7 @@
 - [ ] You cannot use one slicer for two PivotTables.
 - [ ] Right-click the slicer and select Slicer Settings.
 - [ ] Merge the two PivotTables, right-click the merged PivotTable, and select Combine Slicer.
-- [ ] Right-click the slicer and select Report Connections, or click Report Connections on the Slicer tab.
+- [x] Right-click the slicer and select Report Connections, or click Report Connections on the Slicer tab.
 
 #### Q93. Which formula contains a valid absolute reference?
 
